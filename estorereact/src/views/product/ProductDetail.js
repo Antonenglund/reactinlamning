@@ -57,7 +57,7 @@ export default function ProductDetail() {
                 </div>
                 <div className="d-flex justify-content-between ml-3">
 
-                  <button type="button" className="btn btn-color mx-0" onClick={()=> add(product)}> Lägg till i kundvagn</button>
+                  <button type="button" className="btn btn-purple mx-0" onClick={()=> add(product)}> Lägg till i kundvagn</button>
 
                   <div className="text-center">
                     <h4 className="mb-0">{product.price} kr</h4>

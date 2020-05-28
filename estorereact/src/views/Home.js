@@ -24,7 +24,7 @@ export default function Home() {
             <div className="view mb-4 pb-2">
               <img src="https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" className="img-fluid" alt=""/>
                   
-                  <Link to="/products"> <button type="button" className="btn btn-color btn-rounded my-5">Spana in våra produkter</button> </Link>
+                  <Link to="/products"> <button type="button" className="btn btn-purple btn-rounded my-5">Spana in våra produkter</button> </Link>
                   
             </div>
           </div>

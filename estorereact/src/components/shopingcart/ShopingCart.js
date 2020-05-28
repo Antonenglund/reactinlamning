@@ -44,7 +44,7 @@ export default function ShopingCart() {
                                 <div className="ml-1"> Totalsumma: {totalCartAmount}  SEK</div>
                                 <div><small className="text-muted"> Antal produkter: {totalCartQuantity}</small></div>
                                 <button className="btn btn-danger btn-sm px-5" onClick={() => clear()}><i className="fas fa-trash"></i> Töm kundvagn</button>
-                                <button className="btn btn-default btn-sm px-5"> <i class="fas fa-money-bill-alt fa-1x"></i> Gå till Kassan</button>
+                                <button className="btn btn-default btn-sm px-5"> <i className="fas fa-money-bill-alt fa-1x"></i> Gå till Kassan</button>
                             </div>
                             
 
